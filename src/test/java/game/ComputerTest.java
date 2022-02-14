@@ -1,4 +1,4 @@
-package imc.homeassignment;
+package game;
 
 import static org.junit.Assert.*;
 import org.junit.Test;

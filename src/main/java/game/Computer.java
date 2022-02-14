@@ -1,4 +1,4 @@
-package imc.homeassignment;
+package game;
 
 import java.util.Random;
 

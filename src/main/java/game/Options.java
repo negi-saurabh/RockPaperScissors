@@ -1,4 +1,4 @@
-package imc.homeassignment;
+package game;
 
 interface Options {
     public Choices getChoice();

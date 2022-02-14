@@ -1,4 +1,4 @@
-package imc.homeassignment;
+package game;
 
 public class Constants {
     public static final String WELCOME_MSG = "********* | Welcome to ROCK|PAPER|SCISSORS, lets play | **********";
